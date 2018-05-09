@@ -4,6 +4,7 @@
     "start": "umi dev",
     "build": "umi build",
     "lint": "eslint --ext .js src test",
+    "test": "umi test",
     "precommit": "npm run lint"
   },
   "dependencies": {
